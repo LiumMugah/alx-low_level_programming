@@ -97,4 +97,4 @@ hash_node_t *new_node(hash_node_t *c_node)
 	node->next = c_node;
 
 	return (node);
-}c
+}
